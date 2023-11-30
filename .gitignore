@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+!CommonConnectionPool/libmysql.dll
 
 # Fortran module files
 *.mod
